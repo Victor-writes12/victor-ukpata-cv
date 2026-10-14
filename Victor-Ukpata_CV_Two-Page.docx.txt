@@ -1,0 +1,90 @@
+VICTOR UKPATA
+Customer Service • Front Desk • IT Support • Web Development
+Opp. Abraham Adesanya Estate, Along Ogombo Ajah, Lagos, Nigeria
++234 808 264 3626 | 080 7962 2086
+victorukpata12@email.com
+GitHub: https://github.com/Victor-writes12 | Portfolio: https://victor-writes12.github.io/Victo-s-Portflio/
+
+PROFESSIONAL SUMMARY
+Dedicated Customer Support and IT professional with 2+ years’ experience delivering front-desk service, technical support, and digital solutions for small businesses and educational institutions. Skilled in CRM workflow automation, technical writing, responsive web development, and creating client-facing documentation. Strong communicator who resolves customer concerns efficiently and builds positive client relationships.
+
+CORE COMPETENCIES
+- Customer Service & Client Relations: complaint resolution, email & ticket support, customer retention, client communication
+- Front Desk & Administration: reception operations, scheduling, record management, appointment coordination
+- Technical Support & Web: website maintenance, basic troubleshooting, HTML/CSS, fundamentals of JavaScript, Git/GitHub
+- Documentation & Processes: technical writing, onboarding guides, knowledge-base articles, Markdown
+- Tools & Design: Figma, Canva, Snagit, Lightshot, Google Workspace, Microsoft Office
+- Soft Skills: communication, teamwork, problem solving, adaptability, time management
+
+TECHNICAL SKILLS
+HTML, CSS, JavaScript (fundamentals), GitHub, Figma, Canva, Google Docs, Microsoft Word, Markdown, Snagit, Lightshot
+
+PROFESSIONAL EXPERIENCE
+
+Freelance — Customer Support & Web Developer
+Remote / Lagos, Nigeria | 2023 – Present
+- Deliver end-to-end website projects: requirements gathering, wireframes (Figma), front-end implementation (HTML/CSS/JS), and deployment on GitHub Pages.
+- Provide ongoing technical and customer support, managing client communications and resolving post-deployment issues.
+- Create user-focused documentation: onboarding guides, quick-starts, and knowledge-base articles that reduce support volume and speed client onboarding.
+- Build CRM workflow automations and templated responses to streamline customer messaging and follow-ups.
+- Coordinate content updates, SEO-friendly page structure, and responsive layouts to ensure cross-device compatibility.
+
+Key Projects & Contributions
+- CRM Automation (Freelance): Designed and implemented an automated CRM workflow that reduced manual follow-ups and improved response consistency for clients. Created knowledge-base entries and training material for client teams.
+- Grandeur Structure Limited — Corporate Website: Led design and front-end development. Delivered a modern, responsive site to improve the company’s online presence and client engagement.
+  Live: https://victor-writes12.github.io/Grandeur-Structure-Limited/
+- Personal Portfolio: Designed and built a portfolio showcasing web, design, and documentation work; deployed on GitHub Pages.
+  Portfolio: https://victor-writes12.github.io/Victo-s-Portflio/
+  GitHub: https://github.com/Victor-writes12
+
+Selected Achievements
+- Implemented CRM automation that reduced manual follow-ups and improved response consistency.
+- Authored onboarding manuals and quick-start guides, which lowered repeat support requests.
+- Delivered multiple responsive websites that improved client engagement and professional presentation.
+
+EDUCATION
+University of Lagos — Bachelor of Arts (B.A.), English Language (In Progress)
+2023 – 2027
+
+Royal Heritage International School, Osun State
+2018 – 2023 — WAEC, NECO, JAMB
+
+Omoyemi Private School, Osun State
+2014 – 2018 — First School Leaving Certificate (FLSC)
+
+CERTIFICATIONS
+- Google UX Design Professional Certificate
+- Technical Writing: The Essentials
+- Freshdesk Certificate
+- Pipeline Certificate
+(Hard copies available on request)
+
+PROJECT HIGHLIGHTS (DETAILED)
+
+Grandeur Structure Limited — Corporate Website
+Role: Web Designer & Front-End Developer
+Period: 2024 (Freelance)
+Challenge: Client needed a professional corporate web presence to attract clients and showcase services.
+Solution: Designed a modern UI in Figma, implemented responsive layouts with semantic HTML and CSS, and deployed on GitHub Pages. Built content structure for services, team, and contact pages.
+Outcome: Delivered a mobile-friendly site that improved company presentation and provided an accessible contact path for prospective clients.
+Tech: HTML, CSS, GitHub Pages, Figma
+Link: https://victor-writes12.github.io/Grandeur-Structure-Limited/
+
+CRM Automation — Customer Communication Workflow
+Role: CRM Automation Designer & Implementer
+Period: 2023 – 2024
+Challenge: Manual follow-ups and inconsistent messaging slowed customer response times.
+Solution: Mapped customer journeys, created automated workflows and templated responses, and documented usage for client teams.
+Outcome: Streamlined communications and reduced manual work for client staff; improved response consistency and follow-up reliability.
+Tech: Freshdesk (or similar CRM), workflow scripts, knowledge-base articles
+
+Personal Portfolio
+Role: Developer & Designer
+Period: 2023 – Present
+Solution: Built a portfolio site to showcase projects, case studies, and contact information. Deployed on GitHub Pages for reliable hosting.
+Link: https://victor-writes12.github.io/Victo-s-Portflio/
+
+ADDITIONAL INFORMATION
+Languages: English (Fluent)
+References: Available upon request
+Availability: Immediate for freelance or full-time engagements; open to remote & on-site opportunities

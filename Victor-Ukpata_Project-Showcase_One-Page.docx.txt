@@ -1,0 +1,44 @@
+PROJECT SHOWCASE — VICTOR UKPATA
+Concise case studies to attach with proposals. Each entry highlights the challenge, solution, results, and technologies.
+
+1) Grandeur Structure Limited — Corporate Website
+- Client: Grandeur Structure Limited
+- Period: 2024
+- Challenge: No modern web presence; prospective clients had limited information about services.
+- Solution: Designed a clean corporate site (Figma → HTML/CSS), created responsive layouts, service and contact pages, and deployed on GitHub Pages.
+- Result: Professional online presence that supports lead capture and brand credibility.
+- Tech: HTML, CSS, GitHub Pages, Figma
+- Live: https://victor-writes12.github.io/Grandeur-Structure-Limited/
+
+2) CRM Automation — Customer Communication Workflow
+- Client: Small businesses (multiple clients)
+- Period: 2023 – 2024
+- Challenge: Manual follow-ups, inconsistent client communication, and increased support workload.
+- Solution: Implemented automated workflows (CRM rules & templated responses), set up canned replies and knowledge-base articles, and trained staff on usage.
+- Result: Faster and more consistent responses; reduced manual follow-up time and fewer repeat support queries.
+- Tech: Freshdesk (or similar), workflow automation, documentation
+
+3) Personal Portfolio — Web & Documentation Showcase
+- Purpose: Public portfolio to showcase web builds, documentation samples, and UX design exercises.
+- Solution: Developed a portfolio site and deployed on GitHub Pages; included project case studies and links to live work and source repositories.
+- Result: Centralized professional presentation for client outreach and job opportunities.
+- Portfolio: https://victor-writes12.github.io/Victo-s-Portflio/
+- GitHub: https://github.com/Victor-writes12
+
+4) Technical Documentation & Onboarding Guides
+- Scope: Multiple clients / internal workflows
+- Challenge: New users required repeated help to perform basic tasks.
+- Solution: Wrote user-friendly manuals, quick-start guides, and knowledge-base articles using clear step-by-step instructions and screenshots.
+- Result: Faster onboarding and fewer repetitive support tickets; staff can follow consistent procedures.
+- Tools: Markdown, Google Docs, Snagit for screenshots
+
+How I work (quick)
+- Discovery: Understand business goals and user needs.
+- Design: Wireframes in Figma and content outlines for documentation.
+- Build: Implement responsive front-end, test across devices, and deploy.
+- Support: Deliver documentation, train client staff, and provide follow-up maintenance.
+
+Contact
+Victor Ukpata — victorukpata12@email.com — +234 808 264 3626
+Portfolio: https://victor-writes12.github.io/Victo-s-Portflio/
+GitHub: https://github.com/Victor-writes12

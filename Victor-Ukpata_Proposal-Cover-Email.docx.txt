@@ -1,0 +1,28 @@
+Subject options (pick one)
+- Proposal & CV — Web Development & Customer Support Services (Victor Ukpata)
+- Proposal: Website, CRM Automation & Support Services — Victor Ukpata
+
+Email body
+Dear [Recipient Name / Hiring Manager],
+
+I hope you are well. My name is Victor Ukpata. I provide web development, CRM automation, and customer support services tailored to small businesses and educational organisations. I’m sending this message to propose how I can help [Company Name] improve its online presence and streamline customer communications.
+
+Attached are:
+- My CV (detailed) — background, skills and full project history
+- A short project attachment — three case studies that demonstrate relevant work (website build, CRM workflows, documentation)
+
+Highlights:
+- Designed and delivered responsive corporate websites and a public portfolio deployed on GitHub Pages.
+- Built CRM workflows and documentation that reduced manual follow-ups and improved response consistency.
+- Strong client communication skills and experience producing clear onboarding guides and user documentation.
+
+I would welcome the opportunity to discuss how I can support your team. Are you available for a 15–20 minute call next week? I can prepare a short plan scoped to your priorities and share estimated timelines and costs.
+
+Thank you for your time and consideration.
+
+Kind regards,
+Victor Ukpata
++234 808 264 3626
+victorukpata12@email.com
+Portfolio: https://victor-writes12.github.io/Victo-s-Portflio/
+GitHub: https://github.com/Victor-writes12
